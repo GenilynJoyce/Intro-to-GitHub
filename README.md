@@ -11,7 +11,7 @@ Git is the version control system GitHub uses. Git is open source and free to us
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/GenilynJoyce/Intro-to-GitHub.git
+    git clone https://github.com/GenilynJoyce/Intro-to-GitHub
     ```
 
 ## Contributing
